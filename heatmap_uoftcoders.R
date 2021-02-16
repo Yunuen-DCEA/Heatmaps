@@ -23,6 +23,7 @@
 #self organizing maps
 
 
+#modificación de comentarios
 
 library(pheatmap)
 library(heatmaply)
